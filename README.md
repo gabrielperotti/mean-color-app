@@ -1,7 +1,5 @@
 # mean-color-app
 
-Claro, vamos a dividir la creación de este proyecto MEAN (MongoDB, Express.js, Angular, Node.js) en partes, utilizando Docker y Git submódulos para organizar el código. La aplicación que describes parece una buena forma de demostrar estos conceptos. Comenzaremos por establecer la estructura general del proyecto y luego procederemos paso a paso.
-
 ### Paso 1: Configuración Inicial del Proyecto
 Primero, configuraremos el repositorio principal y los submódulos para el frontend y el backend.
 
