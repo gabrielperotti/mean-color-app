@@ -1,6 +1,8 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/gabrielperotti/mean-color-app-backend.git
+  branch = main
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/gabrielperotti/mean-color-app-frontend.git
+  branch = main
