@@ -21,7 +21,7 @@ Este proyecto está dividido en tres submódulos:
 Para ejecutar toda la aplicación:
 1. Clona este repositorio:
 ```
-git clone --recurse-submodules https://github.com/your-username/mean-color-app.git
+git clone --recurse-submodules https://github.com/gabrielperotti/mean-color-app.git
 ```
 2. Navega al directorio del repositorio y ejecuta Docker Compose:
 ```
